@@ -1,0 +1,22 @@
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 2 : Found label after column 1. (COUN1)
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 3 : Found label after column 1. (OFF)
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 4 : Found label after column 1. (MIN)
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 5 : Found label after column 1. (MID)
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 6 : Found label after column 1. (MAX)
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 9 : Found label after column 1. (FLASH)
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 10 : Found label after column 1. (TEMP1)
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 16 : Found label after column 1. (start)
+Message[302] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 18 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 19 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 21 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 33 : Found label after column 1. (LOOP)
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 43 : Found label after column 1. (LOOP2)
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 66 : Found label after column 1. (RUTERN)
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 77 : Found label after column 1. (COUNTER1)
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 88 : Found label after column 1. (MA)
+Message[305] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 113 : Using default destination of 1 (file).
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 142 : Found label after column 1. (BL)
+Message[305] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 165 : Using default destination of 1 (file).
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 191 : Found label after column 1. (CL)
+Message[305] C:\USERS\ULTIMATE\DESKTOP\EMBEDED\PROJECT.ASM 214 : Using default destination of 1 (file).

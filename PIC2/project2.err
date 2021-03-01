@@ -1,0 +1,5 @@
+Warning[203] C:\USERS\ULTIMATE\DESKTOP\EMBEDED2\PROJECT2.ASM 7 : Found opcode in column 1. (CLRF)
+Warning[203] C:\USERS\ULTIMATE\DESKTOP\EMBEDED2\PROJECT2.ASM 8 : Found opcode in column 1. (bsf)
+Message[302] C:\USERS\ULTIMATE\DESKTOP\EMBEDED2\PROJECT2.ASM 9 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ULTIMATE\DESKTOP\EMBEDED2\PROJECT2.ASM 11 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\ULTIMATE\DESKTOP\EMBEDED2\PROJECT2.ASM 13 : Found label after column 1. (loop)
